@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ajuuhiesh.hudsonhouseinn.com/sitemap.xml
